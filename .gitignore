@@ -1,6 +1,8 @@
 # Inner folders
 node_modules
 npm-debug.log
+quiz.sqlite
+.env
 
 # Windows image file caches
 Thumbs.db
